@@ -1,4 +1,0 @@
-Next version:
- Shape cut/paste
- Add frames / delete frames. (Prompt on all counts)
- Color swapping.
